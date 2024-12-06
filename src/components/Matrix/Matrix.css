@@ -1,0 +1,8 @@
+.matrix {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 10px;
+    margin: auto;
+    width: fit-content;
+  }
+  
